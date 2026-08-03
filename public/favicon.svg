@@ -1,0 +1,23 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="45" fill="url(#gradient1)" />
+  
+  <!-- Letter W -->
+  <path d="M20 35L30 65L40 45L50 65L60 45L70 65L80 35" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Letter T -->
+  <path d="M35 75H65" stroke="white" stroke-width="4" stroke-linecap="round" />
+  <path d="M50 75V60" stroke="white" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Team Colors -->
+  <circle cx="25" cy="25" r="7" fill="#4ECDC4" />
+  <circle cx="75" cy="25" r="7" fill="#FF6B6B" />
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="gradient1" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF6B6B" />
+      <stop offset="100%" stop-color="#4ECDC4" />
+    </linearGradient>
+  </defs>
+</svg> 

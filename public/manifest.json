@@ -1,0 +1,17 @@
+{
+  "name": "WordTeam",
+  "short_name": "WordTeam",
+  "description": "An exciting word game to challenge your vocabulary. Win points for your team and climb the leaderboard!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5252",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["games", "entertainment", "education"]
+} 
