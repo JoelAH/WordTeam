@@ -16,7 +16,7 @@
     "@supabase/ssr": "^0.6.1",
     "@supabase/supabase-js": "^2.49.4",
     "bad-words": "^4.0.0",
-    "mongoose": "^8.13.2",
+    "mongoose": "^8.24.7",
     "next": "15.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
